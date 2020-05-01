@@ -137,47 +137,6 @@ namespace PashaBankCup
 
             }
         }
-
-        public static void fizzBuzz(int n)
-        {
-            for (int i = 1; i < n; i++)
-            {
-                if (i % 3 == 0 && i % 5 == 0)
-                    Console.WriteLine("FizzBuzz");
-                else if (i % 3 == 0)
-                    Console.WriteLine("Fizz");
-                else if (i % 5 == 0)
-                    Console.WriteLine("Buzz");
-                else if (i % 3 != 0 && i % 5 != 0)
-                    Console.WriteLine(i);
-            }
-        }
     }
 
-
-    class GFG
-    {
-        public static int binaryToDecimal(int n)
-        {
-            int num = n;
-            int dec_value = 0;
-
-            // Initializing base1 
-            // value to 1, i.e 2^0 
-            int base1 = 1;
-
-            int temp = num;
-            while (temp > 0)
-            {
-                int last_digit = temp % 10;
-                temp = temp / 10;
-
-                dec_value += last_digit * base1;
-
-                base1 = base1 * 2;
-            }
-
-            return dec_value;
-        }
-    }
 }
