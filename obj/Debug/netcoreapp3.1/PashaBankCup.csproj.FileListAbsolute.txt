@@ -1,0 +1,11 @@
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\bin\Debug\netcoreapp3.1\PashaBankCup.exe
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\bin\Debug\netcoreapp3.1\PashaBankCup.deps.json
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\bin\Debug\netcoreapp3.1\PashaBankCup.runtimeconfig.json
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\bin\Debug\netcoreapp3.1\PashaBankCup.runtimeconfig.dev.json
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\bin\Debug\netcoreapp3.1\PashaBankCup.dll
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\bin\Debug\netcoreapp3.1\PashaBankCup.pdb
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\obj\Debug\netcoreapp3.1\PashaBankCup.csprojAssemblyReference.cache
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\obj\Debug\netcoreapp3.1\PashaBankCup.AssemblyInfoInputs.cache
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\obj\Debug\netcoreapp3.1\PashaBankCup.AssemblyInfo.cs
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\obj\Debug\netcoreapp3.1\PashaBankCup.dll
+C:\Users\anara\source\repos\PashaBankCup\PashaBankCup\obj\Debug\netcoreapp3.1\PashaBankCup.pdb
